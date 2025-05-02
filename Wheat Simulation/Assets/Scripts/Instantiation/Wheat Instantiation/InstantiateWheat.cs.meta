@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e39b9b792c1fd8d40b7dd20c9fe5bd07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wheatPrefab: {fileID: 1964023210765326209, guid: d6376d7411c17204c836cdbf4b4a8d9b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
