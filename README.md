@@ -45,6 +45,3 @@ Future goals:
 Developer: Elijah Mickelson
 
 Special thanks to Hosein Beheshtifard and Dr. Farhad Maleki for the helpful advice in improving this program.
-
-## Project status
-The project will be frequently improved upon until September 2024.
